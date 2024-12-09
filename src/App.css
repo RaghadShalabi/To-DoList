@@ -1,0 +1,19 @@
+input[type="text"] {
+  padding: 10px;
+  width: 200px;
+  border: 1px solid #cd7895;
+  border-radius: 5px;
+  outline: none;
+}
+
+button {
+  padding: 10px;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+input[type="checkbox"] {
+  margin-right: 10px;
+  transform: scale(1.2);
+}
